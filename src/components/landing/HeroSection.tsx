@@ -64,7 +64,7 @@ const HeroSection = () => (
           </motion.div>
 
           <motion.p variants={item} className="mt-6 text-sm text-muted-foreground">
-            +1.200 alunos construindo stacks modernas de dados
+            +100 alunos construindo stacks modernas de dados
           </motion.p>
         </motion.div>
 
