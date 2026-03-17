@@ -6,8 +6,6 @@ const stack = [
   "Projeto prático do zero ao deploy",
   "Templates de Dashboards Power BI",
   "Scripts de Automação Agno/WhatsApp",
-  "Comunidade exclusiva de alunos",
-  "Bônus: Estrutura reutilizável para novos projetos",
 ];
 
 const OfferSection = () => (
