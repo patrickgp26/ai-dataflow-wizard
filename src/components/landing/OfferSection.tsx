@@ -54,7 +54,9 @@ const OfferSection = () => (
           </div>
 
           <a
-            href="#"
+            href="https://pay.hotmart.com/A104948252I"
+            target="_blank"
+            rel="noopener noreferrer"
             className="flex items-center justify-center gap-2 w-full rounded-xl py-5 font-semibold text-lg transition-all duration-200 hover:-translate-y-0.5 active:scale-[0.97]"
             style={{
               backgroundColor: "hsl(217 91% 60%)",
