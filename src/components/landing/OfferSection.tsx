@@ -44,12 +44,12 @@ const OfferSection = () => (
           <div className="mb-8">
             <p className="text-sm line-through" style={{ color: "hsl(240 5% 55%)" }}>De R$ 997</p>
             <div className="flex items-baseline gap-3 mt-1">
-               <span className="text-5xl md:text-6xl font-extrabold" style={{ color: "hsl(240 10% 3.9%)" }}>
-                12x R$ 57,90
+              <span className="text-5xl md:text-6xl font-extrabold" style={{ color: "hsl(240 10% 3.9%)" }}>
+                R$ 57,90
               </span>
             </div>
             <p className="text-sm mt-2" style={{ color: "hsl(240 5% 45%)" }}>
-              ou R$ 579 à vista
+              Pagamento único
             </p>
           </div>
 
