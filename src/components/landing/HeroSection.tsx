@@ -41,7 +41,7 @@ const HeroSection = () => (
           </motion.h1>
 
           <motion.p variants={item} className="text-lg md:text-xl text-muted-foreground max-w-[60ch] mb-8 leading-relaxed">
-            Aprenda do zero a extrair, tratar e visualizar dados do Facebook Ads, integrando agentes de IA ao WhatsApp em um ambiente de produção real.
+            Aprenda do zero a extrair, tratar e visualizar dados do Meta Ads, integrando agentes de IA ao WhatsApp em um ambiente de produção real.
           </motion.p>
 
           <motion.ul variants={item} className="flex flex-col gap-3 mb-10">
