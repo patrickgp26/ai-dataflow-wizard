@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { Database, BarChart3, Bot, MessageSquare, ArrowRight, Cloud } from "lucide-react";
 
 const steps = [
-  { icon: Cloud, label: "Facebook Ads API", sub: "Extração", color: "text-primary" },
+  { icon: Cloud, label: "Meta Ads API", sub: "Extração", color: "text-primary" },
   { icon: Database, label: "Airbyte", sub: "Ingestão", color: "text-primary" },
   { icon: Database, label: "PostgreSQL + Docker", sub: "Armazenamento", color: "text-accent" },
   { icon: BarChart3, label: "Power BI", sub: "Visualização", color: "text-primary" },
