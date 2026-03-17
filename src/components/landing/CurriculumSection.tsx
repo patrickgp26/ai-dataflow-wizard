@@ -4,7 +4,7 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 
 const modules = [
   { num: "01", icon: Server, title: "Infraestrutura Imbatível", desc: "Configure uma VM Linux, instale Docker e prepare seu ambiente de produção do zero.", topics: ["Criação e acesso à VM", "Instalação do Docker e Docker Compose", "Configuração de rede e segurança"] },
-  { num: "02", icon: Workflow, title: "Ingestão Escalável com Airbyte", desc: "Configure o Airbyte para extrair dados automaticamente da API do Facebook Ads.", topics: ["Deploy do Airbyte via Docker", "Conexão com Facebook Ads API", "Agendamento de syncs automáticos"] },
+  { num: "02", icon: Workflow, title: "Ingestão Escalável com Airbyte", desc: "Configure o Airbyte para extrair dados automaticamente da API do Meta Ads.", topics: ["Deploy do Airbyte via Docker", "Conexão com Meta Ads API", "Agendamento de syncs automáticos"] },
   { num: "03", icon: Database, title: "Modelagem no PostgreSQL", desc: "Estruture seus dados de marketing em um banco relacional pronto para análise.", topics: ["Schema de dados otimizado", "Tratamento e limpeza de dados", "Views e queries analíticas"] },
   { num: "04", icon: BarChart3, title: "Dashboards no Power BI", desc: "Crie dashboards profissionais que transformam dados brutos em insights visuais.", topics: ["Conexão direta com PostgreSQL", "Criação de medidas DAX", "Design de relatórios executivos"] },
   { num: "05", icon: Bot, title: "Agente de IA com Agno", desc: "Construa um agente inteligente que interpreta seus dados e gera insights automaticamente.", topics: ["Configuração do framework Agno", "Integração com LLMs", "Prompts otimizados para dados"] },
